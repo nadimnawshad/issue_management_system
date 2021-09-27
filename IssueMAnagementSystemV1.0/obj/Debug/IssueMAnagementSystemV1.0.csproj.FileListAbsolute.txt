@@ -1,0 +1,334 @@
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csprojAssemblyReference.cache
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.Loading.resources
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\Project-20210815T025056Z-001\Project\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.AssemblyReference.cache
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.Loading.resources
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+F:\UP2\IssueMAnagementSystemV1.0-20210815T050331Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\Clones\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+F:\UP2\Clones\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+F:\UP2\Clones\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.AssemblyReference.cache
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csprojAssemblyReference.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.AssemblyReference.cache
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+F:\download\IssueMAnagementSystemV1.0-20210815T145158Z-001-20210815T165155Z-001\IssueMAnagementSystemV1.0-20210815T145158Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csprojAssemblyReference.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210819T100925Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+F:\Up\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+F:\Up\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+F:\Up\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.AssemblyReference.cache
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+F:\Up\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csprojAssemblyReference.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.AssemblyReference.cache
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Management.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+F:\UP2\Clones\IssueMAnagementSystemV1.0-20210820T045626Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csprojAssemblyReference.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Management.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210821T023757Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.AssemblyReference.cache
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Management.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+F:\UP2\Clones\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+F:\UP2\Clones\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Management.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+F:\UP2\new\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+F:\UP2\new\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.AssemblyReference.cache
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Management.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+F:\UP2\new\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csprojAssemblyReference.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Management.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChangePassPage.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.AssemblyReference.cache
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChangePassPage.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Management.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+F:\Up\Untitled folder\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csprojAssemblyReference.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChangePassPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Management.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+C:\Users\NADIM\Downloads\IssueMAnagementSystemV1.0-20210823T081347Z-001\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+F:\Last Update\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+F:\Last Update\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+F:\Last Update\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.AssemblyReference.cache
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChangePassPage.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Management.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+F:\Last Update\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe.config
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.exe
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\bin\Debug\IssueMAnagementSystemV1.0.pdb
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csprojAssemblyReference.cache
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.AccountOutput.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChangePassPage.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ChatPage.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.CreateAccount.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.CreateIssue.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Dashboard.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.ForgetPassword.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.IssuesDashboard.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.LoadingPage.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Entity.LoginPage.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.Management.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.MyIssues.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Presentation_Layer.User.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1._0.Properties.Resources.resources
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.GenerateResource.cache
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.csproj.CoreCompileInputs.cache
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.exe
+D:\AIUB\class\Summer'21\OOP2\Projec 1\IssueMAnagementSystemV1.0\obj\Debug\IssueMAnagementSystemV1.0.pdb
